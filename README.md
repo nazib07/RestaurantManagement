@@ -1,1 +1,1 @@
-# RestaurantManagement
+# RestaurantManagement in Qt
