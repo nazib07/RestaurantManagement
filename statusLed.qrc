@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/led">
+        <file>green-led.png</file>
+        <file>red-led.png</file>
+        <file>Al ffresco Logo [Converted].jpg</file>
+    </qresource>
+</RCC>

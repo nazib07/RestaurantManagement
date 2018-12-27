@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>graph.jpg</file>
+        <file>icon-catering.png</file>
+    </qresource>
+</RCC>
